@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+This Blog is about Cloud Native, K8S and some interesting things in life about a software developer.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
