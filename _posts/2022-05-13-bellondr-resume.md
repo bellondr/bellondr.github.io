@@ -6,6 +6,7 @@
 - 手机：17600691393
 - 工作年限：5年
 - github: https://github.com/bellondr
+- email: 18566688434@163.com
 - 期望工作地点：北京
 - 现居住地：北京
 
