@@ -34,7 +34,11 @@ Keyword: team management, software development, fullstack, cloud computing, kube
 - Developed SaaS service for authorization.
 - Member of
 
+Keyword: Privite PaaS platform, go, supervisor
+
 ### Freewheel - 
 * Fullstack Engineer
 - Developed several microservice.
 - Split several key bussiness model for Ruby on Rails server to microservice.
+
+Keyword: Ruby on Rails, fullstack engineer, microservice
