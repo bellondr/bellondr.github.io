@@ -35,7 +35,7 @@ Keyword: team management, software development, fullstack, cloud computing, kube
 
 Keyword: Privite PaaS platform, go, supervisor
 
-### Freewheel - 
+### Freewheel - Fullstack (2017.2 - 2019-5) 
 * Fullstack Engineer
 - Developed several microservice.
 - Split several key bussiness model for Ruby on Rails server to microservice.
