@@ -32,7 +32,6 @@ Keyword: team management, software development, fullstack, cloud computing, kube
 - Developed privatization paas platform based on docker, supervisor.
 - Lead development of paas infrastucture.
 - Developed SaaS service for authorization.
-- Member of
 
 Keyword: Privite PaaS platform, go, supervisor
 
